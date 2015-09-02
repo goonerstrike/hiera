@@ -1,0 +1,5 @@
+--- 
+sshservicename: 'sshd'
+ip_base: '192.168.1'
+nfs_software_folder: 'software'
+nfs_backup_folder: 'backup'
